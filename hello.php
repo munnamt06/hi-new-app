@@ -1,5 +1,4 @@
 <?php
+echo "Munna";
 
-echo "Hello World!";
-
-?>
+>
